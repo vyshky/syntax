@@ -22,6 +22,7 @@ namespace CountSpace
             // }
             // Console.WriteLine();
             
+            //2 решение
             ConsoleKeyInfo i;
             do
             {
